@@ -14,8 +14,6 @@ This project presents an interactive Tableau dashboard analyzing startup funding
 - Funding activity peaked around 2024
 - Pune, Delhi, and Kolkata emerged as major startup hubs
 
-## 🔗 Live Dashboard
-(Add Tableau Public Link Here)
 
 ## 📁 Dataset
 Indian Startup Funding Dataset
